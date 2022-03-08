@@ -1,5 +1,7 @@
+# Perfil
+
 - 👋 Olá, eu sou @AcrisioTomas
-- 👀 Eu tenho interesse em análise de dados e inteligecia artificial
+- 👀 Eu tenho interesse em marketing analytics, análise de dados e inteligecia artificial
 - 🌱 Nesse momomento estou apredendo phyton e  relembrando códigos HTML e CSS
 - 💞️ Eu procuro colaborar em projetos de análises de dados
 - 📫 Para falar comigo, envie um email
